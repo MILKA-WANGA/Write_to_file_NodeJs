@@ -1,0 +1,1 @@
+NodeJs is a Javascript runtime that adds functionality to javascript and allows javascript to run on a server
